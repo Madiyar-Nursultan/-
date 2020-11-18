@@ -17,10 +17,10 @@ int main() {
   cout << "<!doctype html>\n";
   cout << "<html lang=\"en\">\n";
   cout << "<head>\n";
-  set_page_title("Hello, World!");
+  set_page_title("Добро пожаловать на наш сайт!");
   cout << "</head>\n";
   cout << "<body>\n";
-  h1_text("Hello, World!");
+  h1_text("Добро пожаловать на наш сайт!");
   cout << "</body>\n";
   cout << "</html>";
   return 0;
