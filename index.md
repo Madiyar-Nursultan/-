@@ -6,15 +6,14 @@ You can use the [editor on GitHub](https://github.com/Madiyar-Nursultan/Fisrt/ed
 
 Everything is very simple.
 
-```markdown
-Syntax highlighted code block
+
 
 # 1 view the task
 ## 2 perform a task
 ### 3 hand over the task
 
 
-**Polytechnic is the best** and _Italic_ and `Code` text
+**Политех лучше всех** 
 
 
 
